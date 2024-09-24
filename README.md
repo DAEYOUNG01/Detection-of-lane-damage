@@ -32,4 +32,11 @@
 SegRoad는 도로 이미지에서 손상된 부분을 정확하게 검출하기 위한 세그멘테이션 기반 시스템입니다. 
 
 이를 통해 도로 유지보수 효율성을 높이고, 안전한 주행 환경을 제공합니다.
-![image](https://lh4.googleusercontent.com/proxy/X0GCRHbm_d5ey74ExZdM7IkiwMmqJ_q6IysmnR3XOTol0MsyZECFtK8iAph2u8vW-2dGLC5XQ1sdS-Ffbe1VabDgUo98UmWL2slXMZfD83rOFpg)
+
+SegRoad는 자율주행 차량을 위한 중요한 데이터 소스로 활용될 수 있습니다. 
+
+도로 상태를 실시간으로 모니터링하고 손상된 구간을 자율주행 시스템에 미리 알림으로써 차량이 안전한 경로를 선택하거나 손상된 도로를 회피할 수 있도록 돕습니다. 
+
+이를 통해 자율주행 차량의 안전성과 주행 효율성을 크게 향상시키며, 도로 관리 시스템과 자율주행 기술의 통합적인 발전에 기여합니다.
+
+![image](https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ch/2020/09/28/2020092800213_0.jpg)
