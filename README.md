@@ -32,3 +32,4 @@
 SegRoad는 도로 이미지에서 손상된 부분을 정확하게 검출하기 위한 세그멘테이션 기반 시스템입니다. 
 
 이를 통해 도로 유지보수 효율성을 높이고, 안전한 주행 환경을 제공합니다.
+![image](https://lh4.googleusercontent.com/proxy/X0GCRHbm_d5ey74ExZdM7IkiwMmqJ_q6IysmnR3XOTol0MsyZECFtK8iAph2u8vW-2dGLC5XQ1sdS-Ffbe1VabDgUo98UmWL2slXMZfD83rOFpg)
