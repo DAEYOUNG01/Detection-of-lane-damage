@@ -1,4 +1,4 @@
-# SegRoad: 도로 손상 객체 검출 시스템(Detection_of_lane_damage)
+# 도로 손상 객체 검출 시스템(Detection_of_lane_damage)
 ---
 
 
@@ -27,8 +27,7 @@
 ---
 
 
-## 프로젝트 제목 : Detection_of_lane_damage
-
+## 프로젝트 제목 : SegRoad
 
 SegRoad는 도로 이미지에서 손상된 부분을 정확하게 검출하기 위한 세그멘테이션 기반 시스템입니다. 
 
