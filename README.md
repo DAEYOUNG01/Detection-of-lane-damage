@@ -132,5 +132,22 @@ https://docs.ultralytics.com/ko (Ultralytics 페이지)
 
 # 프로젝트 결과 
 
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/06b58542-c0b6-49e3-9d72-0f4e51a75fc4" width="700" height="400" />
+</p>
+
+| line | damaged_line |
+|---------|---------|
+| <img src= "https://github.com/user-attachments/assets/db30706b-2e1e-4ebc-bba3-c1ca0cedb60a" width="550" height="420" /> | <img src= "https://github.com/user-attachments/assets/63a5f6c7-721f-4516-b376-869e9d08b759" width="550" height="420" /> |
+
+https://github.com/user-attachments/assets/f1894f31-74da-459b-a37e-5598c637c830 
+
+---
+
+# 프로젝트의 한계 및 향후 연구 방향
+
+---
+
+# 기대효과
 
 
