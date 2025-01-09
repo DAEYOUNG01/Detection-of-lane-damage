@@ -14,7 +14,7 @@
 * **도로 훼손 객체 탐지 알고리즘 설계** : 알고리즘 설계에 대한 내용
 
 
-* **모델 설계**
+* **모델 설명**
 
   
 * **프로젝트 결과**
@@ -105,7 +105,7 @@ V. 데이터 검증 및 저장
 
 ---
 
-# 모델 설명 및 설계 
+# 모델 설명 
 https://docs.ultralytics.com/ko (Ultralytics 페이지)
 
 **YOLO에는 Detect, Segment, Classify, Pose, OBB 등의 기술을 제공**
@@ -116,7 +116,7 @@ https://docs.ultralytics.com/ko (Ultralytics 페이지)
 <img src="https://github.com/user-attachments/assets/a76bd8c6-6879-48ab-ae86-c87a77a886b2" width="700" height="400" />
 </p>
 
-## Segmentation 기술 선정 배경
+## Segmentation 기술 선정 배경 및 강점 
 
 **1. Detection과 다르게 Segmentation은 객체의 경계를 넘어 픽셀 단위로 훼손 영역과 정상 영역을 정확히 구분 가능** 
 
@@ -127,5 +127,10 @@ https://docs.ultralytics.com/ko (Ultralytics 페이지)
 **4. 클래스 별 Segmentation을 통해 정교한 구분 가능 -> 손상 정도에 따라 맞춤형 유지 보수 계획 수립 가능**
 
 **5. 객체의 중복(중첩)을 처리 가능, 포괄적 도로 관리 가능**
+
+---
+
+# 프로젝트 결과 
+
 
 
