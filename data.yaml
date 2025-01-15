@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+
+
+nc: 2
+names: ['line', 'damaged_line' ]
